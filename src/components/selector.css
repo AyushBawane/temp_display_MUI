@@ -1,0 +1,28 @@
+.selector{
+    border-right: 2px solid rgb(220, 218, 218);
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#temp{
+    padding: 10px 20px;
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.range{
+    margin: 20px 0;
+}
+
+.inpTemp{
+    margin-top: 20px;
+    padding: 10px;
+    width: 30%;
+    border: 2px solid black;
+    font-weight: bold;
+}
